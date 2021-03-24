@@ -1,0 +1,54 @@
+
+table, th, td {
+  border: 1px solid black;  
+}
+
+.tab{
+  width: 100%; 
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+  background-color: #0a42b2;
+  color: lightgray;
+}
+
+.main{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14pt;
+}
+.buttons {
+  background-color: #0a42b2;
+  color: lightgray;
+  border: 2px solid lightskyblue;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5%;
+  width: 75px;
+}
+.bold1{
+  padding: 5px;
+  padding-left: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+} 
+
+a {
+  text-decoration: none;
+}
+a:link {
+  background-color: #7582cf;
+}
+a:visited {
+  background-color: #0e26af;
+}
+a:hover {
+  background-color: dodgerblue;
+}
+a:active {
+  background-color: gray;
+}

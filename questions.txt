@@ -1,0 +1,33 @@
+1~Which of the following is a continent and a country?~Europe~Asia~Australia~America~Australia
+2~Who was the first president of the United States?~Abraham Lincoln~George Washington~Thomas Jefferson~William Taft~George Washington
+3~What does CPU stand for?~Central Processing Unit~Computer Processing Unit~Computing Processor Unit~Central Power Unit~Central Processing Unit
+4~What does RAM stand for?~Relative Accessible memory~Real-time Access Memory~Rotational Accessing Memory~Random Access Memory~Random Access Memory
+5~What does HTML stand for?~Hypertext Markup Language~Hyperlink Match Programming~High tier Markup Language ~Huge Tony Merch Lounge~Hypertext Markup Language
+6~What is the chemical formula for Sodium Chloride?~H20~NaCl~CO2~KNO3~NaCl
+7~How many objects are equivalent to one mole?~6.022 x 10^23~6.002 x 10^22~6.022 x 10^22~6.002 x 10^23~6.022 x 10^23
+8~What is the 100th digit of pi?~9~4~5~2~9
+9~How many feet are in a mile?~6310~5280~5820~6190~5280
+10~How many pints are in a gallon?~16~8~4~2~8
+11~What does PoE stand for?~Plug-in Operating Electronic~Plugged-in Over Ethernet~Power Over Ethernet~Power On Externally~Power Over Ethernet
+12~How many seconds are there in an hour?~3600~3800~3200~3400~3600
+13~How many miles are ran in a 5K?~3~3.1~3.2~3.3~3.1
+14~What year was Apple founded?~1979~1971~1974~1976~1976
+15~What year was Microsoft founded?~1976~1972~1975~1977~1975
+16~What year was GTA V released?~2012~2013~2014~2015~2013
+17~What year was the iPhone 5 released?~2012~2013~2014~2015~2012
+18~How many Electoral College votes does a candidate need in order to become the president of the United States?~270~280~160~200~270
+19~How many brains does an octopus have?~1~3~5~9~9
+20~How many heart(s) does an octopus have?~1~2~3~4~3
+21~What car was Paul Walker driving in the beginning of 2 Fast 2 Furious?~Nissan r34 GTT~Nissan r34 GTR~Toyota Supra~Acura NSX~Nissan r34 GTR
+22~What year was the original Acura NSX discontinued?~2003~2004~2005~2006~2005
+23~What engine layout does a Nissan r34 GTR have?~Inline 6 Twin-Turbo~Inline 5 Twin-Turbo~V-6 Twin-Turbo~V-8 Turbo~Inline 6 Twin-Turbo
+24~How many seconds are there in a month of 30 days?~614800~624800~604800~684800~604800
+25~Who was the 32nd president of the United States~Herbert Hoover~Harry S. Truman~Franklin D. Roosevelt~Ronald Reagan~Franklin D. Roosevelt
+26~How many pixels are in a 4k tv?~8,523,350~8,294,400~7,345,800~7,134,600~8,294,400
+27~What time period did the Civil War in the United States take place?~1947-1991~1775-1783~1861-1865~1836-1838~1861-1865
+28~What was the name of the German offensive operation in October 1941 to take Moscow before winter?~Operation Subzero~Operation Typhoon~The Coldfront Offensive~ Operation Blitzkrieg~Operation Typhoon
+29~When did the Lusitania sink?~June 5, 1910~March 3, 1938~May 7, 1915~August 22, 1925~May 7, 1915
+30~When did the Civil War end?~March 25, 1865~June 12, 1865~April 18, 1865~April 9, 1865~April 9, 1865
+31~Who is the largest exporter of coffee?~Venezuela~Brazil~Vietnam~Philippines~Vietnam
+32~How many grams of sugar are in a 12oz Coca-Cola can?~40g~39g~38g~37g~39g
+33~Which of the following is a stealth fighter jet?~F-22~F-18~F-16~F-15~F-22

@@ -1,0 +1,63 @@
+.body {
+  background-color: #0a42b2;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: small;
+  color: lightgray;
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.fitb-section {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.main {
+  height: 85%;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.buttons {
+  background-color: #0e26af;
+  color: lightgray;
+  border: 2px solid lightskyblue;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5%;
+}
+.radioimg {
+  width: 7vw;
+  height: 7vw;
+  padding: 1vw;
+}
+a {
+  text-decoration: none;
+}
+a:link {
+  background-color: #0e26af;
+}
+
+a:visited {
+  background-color: #0e26af;
+}
+
+a:hover {
+  background-color: dodgerblue;
+}
+
+a:active {
+  background-color: gray;
+}
+

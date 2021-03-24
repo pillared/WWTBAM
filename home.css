@@ -1,0 +1,62 @@
+.body {
+  margin-top: 20%;
+  background-color: #0a42b2;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: lightgray;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.buttons {
+  background-color: #0a42b2;
+  color: lightgray;
+  border: 2px solid lightskyblue;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 10px;
+  margin-left: 10px;
+  border-radius: 5%;
+  width: 75px;
+}
+a {
+  text-decoration: none;
+}
+a:link {
+  background-color: #0e26af;
+}
+a:visited {
+  background-color: #0e26af;
+}
+a:hover {
+  background-color: dodgerblue;
+}
+a:active {
+  background-color: gray;
+}
+.thumbnail{
+  animation: rotation 8s infinite linear;
+  transition: width 2s;
+}
+
+.thumbnail:hover {
+    width: 300px;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}

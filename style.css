@@ -1,0 +1,63 @@
+.background{
+  background-color: darkblue;
+  background-image: url("1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.question1-container{
+  justify-content: center;
+  
+}
+
+.question1-container h1{
+  text-align: center;
+  color: yellow;
+  font-size: 35pt;
+}
+
+.question1-container h3{
+  text-align: center;
+  color:white;
+  font-size: 20pt;
+}
+
+.answer-choices{
+  text-align: center;
+}
+
+.answer-choices a{
+  font-weight: bold;
+ pointer-events: initial;
+ color:yellow;
+}
+
+
+.first-answer1-choices p{
+  display: inline-block;
+    margin-left: 40px;
+    font-size: 25pt;
+}
+
+.second-answer1-choices p{
+  display: inline-block;
+    margin-left: 40px;
+    font-size: 25pt;
+}
+
+.gif{
+  text-align: center;
+}
+
+.gif img{
+  height: 40%; 
+  width: 40%;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+  width: 10%;
+  height: 10%;
+}
